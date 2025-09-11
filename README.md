@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radityapanca02" alt="radityapanca02" /></a> </p>
 
-- 🌱 I’m currently learning **MVC, Laravel, CMS, DevOps**
+- 🌱 I’m **Junior FullStack Developer Enthusiast**
 
 - 📫 How to reach me **radityapanca02@gmail.com**
 
