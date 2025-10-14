@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Saya Muhammad Panca Raditya Pamungkas</h1>
-<h3 align="center">Future FullStack developer, hopefully achieved. From Indonesian</h3>
+<h3 align="center">Junior FullStack Developer Enthusiast. From Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radityapanca02&label=Profile%20views&color=0e75b6&style=flat" alt="radityapanca02" /> </p>
 
