@@ -42,34 +42,9 @@ My dream is to become a **Full-Stack Engineer** who masters various IT technolog
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radityapanca02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=radityapanca02&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radityapanca02&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radityapanca02&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/radityapanca02/radityapanca02/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 👀 Profile Views
 <p align="center">
