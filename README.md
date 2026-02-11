@@ -1,49 +1,81 @@
-<!-- 🌟 GitHub Profile README -->
-<h1 align="center">Hi 👋, Saya Muhammad Panca Raditya Pamungkas</h1>
-<h3 align="center">🚀 Junior FullStack Developer Enthusiast from Indonesia 🇮🇩</h3>
+# Hello, I'm Panca Raditya 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radityapanca02&label=Profile%20views&color=7F00FF&style=for-the-badge" alt="radityapanca02" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=radityapanca02&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="radityapanca02" />
-  </a>
-</p>
+I like to learn many things, especially in the field of IT.  
+My dream is to become a **Full-Stack Engineer** who masters various IT technologies and keeps learning every day 🚀
 
 ---
 
-### 🌱 About Me
-- 💻 I’m **Junior FullStack Developer Enthusiast**
-- 📫 Reach me at **radityapanca02@gmail.com**
-- ⚡ Fun fact: **Kadang ingat, kadang lupa 😄**
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad panca raditya p" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
+## 🌐 Contact Me
+<p align="left">
   <a href="https://instagram.com/pan_03.0408" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,mysql,postgres,nginx,linux,git" />
+## 🛠️ Skills & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radityapanca02&show_icons=true&theme=radical&layout=compact" alt="Top Langs" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=radityapanca02&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radityapanca02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radityapanca02&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radityapanca02&layout=compact&theme=tokyonight" />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=radityapanca02&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/radityapanca02/radityapanca02/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radityapanca02&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ *"Code. Learn. Improve. Repeat."*
