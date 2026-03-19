@@ -1,7 +1,7 @@
 # Hello, I'm Panca Raditya 👋
 
 I like to learn many things, especially in the field of IT.  
-My dream is to become a **Full-Stack Engineer** who masters various IT technologies and keeps learning every day 🚀
+Learn to Learn, I'm a Junior FullStack Developer Enthusiasts and Junior CyberSecurity Enthusiasts
 
 ---
 
