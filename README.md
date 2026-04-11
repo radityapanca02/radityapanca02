@@ -23,7 +23,7 @@
 ```typescript
 const pancaRaditya = {
   name: "Panca Raditya",
-  title: "Junior FullStack Developer",
+  title: "FullStack Developer",
   passion: ["CyberSecurity", "Cloud Computing", "Web Technologies"],
   motto: "Always learning new things in IT",
   currently: "Exploring FullStack & Security landscape",
