@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/radityapanca02">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,java,kotlin,linkedin,mysql,nodejs,php,postman,py,react,stackoverflow,visualstudio,vscode,vue,gcp,kali,bash,linux,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,java,kotlin,linkedin,mysql,nodejs,php,postman,py,react,stackoverflow,visualstudio,vscode,vue,gcp,kali,bash,linux,postgres,supabase,gitlab" />
   </a>
 </div>
 
@@ -23,5 +23,5 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/radityapanca02"><img src="https://streak-stats.demolab.com?user=ayeshanweerasuriya&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+<a href="https://github.com/radityapanca02"><img src="https://streak-stats.demolab.com?user=radityapanca02&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
 </p>
