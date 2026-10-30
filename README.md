@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/radityapanca02">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,java,kotlin,linkedin,mysql,nodejs,php,postman,py,react,stackoverflow,visualstudio,vscode,vue,gcp,kali,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,java,kotlin,linkedin,mysql,nodejs,php,postman,py,react,stackoverflow,visualstudio,vscode,vue,gcp,kali,bash,linux,postgres,supabase" />
   </a>
 </div>
 
